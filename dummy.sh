@@ -1,1 +1,2 @@
-echo "welcome to devops"
+#!/bin/bash
+echo"hi man"
